@@ -188,14 +188,15 @@ html {
     justify-content: center;
     border-radius: 10px;
     box-shadow:  0 0 16px 8px rgb(0 0 0 / 9%);
+    background-image: url(https://img.freepik.com/free-photo/modern-style-kitchen-interior-design-with-dark-blue-wall-3d-rendering_41470-4082.jpg?t=st=1658609718~exp=1658610318~hmac=1b7af456b4d046c5772294be276f3a2bac12a070b90067383323acde75f44883&w=1800);
 }
 
 #search .heading {
+    color: #fff;
     position: absolute;
     top: 30px;
     font-size: 20px;
     padding: 10px;
-    background-color: rgba(212, 212, 212, 0.1);
     border-radius: 10px;
 }
 
@@ -206,7 +207,7 @@ html {
     display: flex;
     align-items: center;
     padding: 10px;
-    background-color: rgba(212, 212, 212, 0.5);
+    background-color: rgba(212, 212, 212, 0.2);
     border-radius: 10px;
 }
 
@@ -235,14 +236,13 @@ html {
     width: 716px;
     height: 358px;
     left: 16.5%;
-    background-color: #cccccc;
+    background-color: rgba(212, 212, 212, 0.3);
     position: absolute;
     top: 270px;
     padding: 10px;
     border-radius: 10px;
     box-shadow:  0 0 16px 8px rgb(0 0 0 / 9%);
     display: block;
-    background-image: url(https://img.freepik.com/premium-photo/loft-style-house-with-armchair-accessories-room-3d-rendering_41470-2917.jpg?w=1800);
     background-repeat: none;
     background-size: cover;
 }
@@ -265,8 +265,8 @@ html {
     width: 93%;
     padding: 10px;
     list-style-type: none;
-    background-color: rgba(212, 212, 212, 0.5);
-    box-shadow:  0 0 16px 8px rgb(0 0 0 / 9%);
+    /* background-color: rgba(212, 212, 212, 0.5); */
+    /* box-shadow:  0 0 16px 8px rgb(0 0 0 / 9%); */
 
     border-radius: 10px;
 }
